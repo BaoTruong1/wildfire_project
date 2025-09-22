@@ -3,7 +3,7 @@
 This project explores wildfire patterns in California using EDA, clustering, and geospatial visualization.
 
 ![Total Wildfires Each County](outputs/figures/wildfires.png)
-* Number of Wildfires occurrences across California. *
+* Number of Wildfires occurrences across California.
 
 📌 Project Overview
 
@@ -64,3 +64,17 @@ California-Wildfires-EDA-Project/
 ├── README.md              # Project documentation
 ├── requirements.txt       # Dependencies
 └── LICENSE                # License (MIT)
+
+📖 Conclusion
+
+![Cluster Distribution by County](outputs/figures/cluster_by_county.png)
+
+- The wildfires happened in Nepa Valley, Orange County, Mendocino County are likely to be widespread and have a devastating impact on human's lives. 
+
+- The fires in Butte County, Los Angeles County, Santa Barbara County, and Shasta County often create a lot of financial loss, damage a lot of cars and injure many people.
+
+- Finally, the other counties' wildfires affected negatively to businesses and houses.
+
+- This study has a limitation is that it fails to take into other important factors such as area, population, and economic activity of counties.
+
+- For detailed analyis, please visit the notebook folder.
