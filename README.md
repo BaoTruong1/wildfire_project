@@ -58,12 +58,12 @@ California-Wildfires-EDA-Project/
 │   └── exploration.ipynb
 │
 │
-├── outputs/               # Figures and reports
+├── outputs/               
 │   └── figures/
 │
-├── README.md              # Project documentation
-├── requirements.txt       # Dependencies
-└── LICENSE                # License (MIT)
+├── README.md              
+├── requirements.txt       
+└── LICENSE              
 ```
 
 📖 Conclusion
