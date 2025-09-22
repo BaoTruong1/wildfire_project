@@ -47,7 +47,7 @@ This project explores wildfire patterns between 2014–2024 using data on acres 
 - Clusters the fires into different categories based on what types of damage the wildfires cause the most
 
 🗂️ Code Structure
-
+```
 California-Wildfires-EDA-Project/
 │
 ├── data/                 
@@ -64,6 +64,7 @@ California-Wildfires-EDA-Project/
 ├── README.md              # Project documentation
 ├── requirements.txt       # Dependencies
 └── LICENSE                # License (MIT)
+```
 
 📖 Conclusion
 
